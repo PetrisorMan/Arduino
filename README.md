@@ -57,3 +57,6 @@ Componenete:
 
 Link catre siteul de inspiratie:
 http://www.instructables.com/id/Arduino-EMF-Detector-1/
+
+Link catre Bom:
+https://docs.google.com/spreadsheets/d/1E0dmlu8EF6GV2anYi5aI0NOScdfKaSuyV9VXi3QxLGc/edit#gid=0
